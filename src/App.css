@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsla(227, 11%, 15%, 1);
+  min-height: 100vh;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.App {
+  width: 317px;
+  background: hsla(231, 12%, 12%, 1);
+  border-radius: 10px;
+}
+
+/* ---------- CARD STYLES */
+
+/* CARD PROFILE */
+.profile-img {
+  object-fit: cover;
+  height: 317px;
+  width: 317px;
+}
+
+/* CARD BODY */
+
+.card-body-main {
+  text-align: center;
+  margin-top: 21px;
+}
+
+.card-body-heading {
+  font-size: 25px;
+  color: hsla(0, 0%, 100%, 1);
+  font-weight: 700;
+}
+
+.card-body-profession {
+  font-size: 13px;
+  color: hsla(25, 79%, 78%, 1);
+}
+
+.card-body-website {
+  font-size: 10px;
+  color: hsla(0, 0%, 96%, 1);
+}
+
+.card-body-buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+}
+
+.card-body-text {
+  margin-top: 33px;
+  padding: 0 36px;
+}
+
+.section-heading {
+  font-size: 16px;
+  font-weight: 700;
+  color: hsla(0, 0%, 96%, 1);
+}
+
+.section-parahraph {
+  margin-top: 5px;
+  font-size: 10px;
+  line-height: 15px;
+  color: hsla(0, 0%, 86%, 1);
+}
+
+.card-body-text > h1:last-of-type {
+  margin-top: 20px;
+}
+
+.card-footer {
+  background: hsla(231, 7%, 9%, 1);
+  padding: 20px 73px;
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+/* Button */
+
+.button {
+  height: 34px;
+  width: 115px;
+  border-radius: 6px;
+  padding: 9px 0;
+  display: flex;
+  font-weight: 500;
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 1px 2px 0 hsla(0, 0%, 0%, 0.05);
+}
+
+.button-mail {
+  background: white;
+  color: #374151;
+}
+
+.button-linkd {
+  background-color: hsla(212, 72%, 60%, 1);
+  color: white;
+}
+
+.button-mail > img {
+  width: 12.8px;
+  height: 9.6px;
+}
+
+.button-linkd > img {
+  width: 13.33px;
+  height: 13.33px;
+}
