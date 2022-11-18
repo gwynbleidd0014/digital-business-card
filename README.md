@@ -1,9 +1,10 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#Screenshot)
-  - [Build With](#Built-with)
-- [Author](#Author)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Build With](#built-with)
+- [Author](#author)
 
 ## Overview
 
