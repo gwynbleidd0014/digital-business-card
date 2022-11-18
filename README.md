@@ -1,23 +1,23 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Build With](#built-with)
-- [Author](#author)
+  - [Screenshot](#Screenshot)
+  - [Build With](#Built-with)
+- [Author](#Author)
 
 ## Overview
 
 Simple business card, made with Html, Css, React
 
-### Links
+## Screenshot
 
-- Live Site URL: [Click to see live page]()
+![Desktop View](./Design/Screenshot.png)
 
 ### Built With
 
 - HTML
 - CSS
+- Javascript
 - React
 
 ## Author
