@@ -1,8 +1,8 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+  - [Links](#Links)
   - [Build With](#built-with)
 - [Author](#author)
 
