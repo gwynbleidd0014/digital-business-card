@@ -3,8 +3,8 @@
 - [Overview](#overview)
 
   - [Links](#Links)
-  - [Build With](#built-with)
-- [Author](#author)
+  - [Build With](#Built-with)
+- [Author](#Author)
 
 ## Overview
 
